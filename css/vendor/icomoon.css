@@ -1,0 +1,252 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../fonts/icomoon.eot?6iq20l');
+  src:  url('../../fonts/icomoon.eot?6iq20l#iefix') format('embedded-opentype'),
+    url('../../fonts/icomoon.ttf?6iq20l') format('truetype'),
+    url('../../fonts/icomoon.woff?6iq20l') format('woff'),
+    url('../../fonts/icomoon.svg?6iq20l#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-df-service:before {
+  content: "\e902";
+}
+.icon-twitter-x:before {
+  content: "\e910";
+}
+.icon-arrow-2-left:before {
+  content: "\e901";
+}
+.icon-location-2:before {
+  content: "\e903";
+}
+.icon-069-arrow-black:before {
+  content: "\e905";
+}
+.icon-071-work-time:before {
+  content: "\e907";
+}
+.icon-074-phone:before {
+  content: "\e908";
+}
+.icon-001-air-cooler:before {
+  content: "\f101";
+}
+.icon-002-building:before {
+  content: "\f102";
+}
+.icon-003-filter:before {
+  content: "\f103";
+}
+.icon-004-star:before {
+  content: "\f104";
+}
+.icon-005-location:before {
+  content: "\f105";
+}
+.icon-007-telephone:before {
+  content: "\f106";
+}
+.icon-008-play-button:before {
+  content: "\f107";
+}
+.icon-009-sewer:before {
+  content: "\f108";
+}
+.icon-010-leak:before {
+  content: "\f109";
+}
+.icon-011-basin:before {
+  content: "\f10a";
+}
+.icon-012-gas-station:before {
+  content: "\f10b";
+}
+.icon-013-shower:before {
+  content: "\f10c";
+}
+.icon-014-smile:before {
+  content: "\f10d";
+}
+.icon-015-heart:before {
+  content: "\f10e";
+}
+.icon-016-group-chat:before {
+  content: "\f10f";
+}
+.icon-017-sport-team:before {
+  content: "\f110";
+}
+.icon-018-certificate:before {
+  content: "\f111";
+}
+.icon-019-quality:before {
+  content: "\f112";
+}
+.icon-020-quote:before {
+  content: "\f113";
+}
+.icon-021-next:before {
+  content: "\f114";
+}
+.icon-022-left:before {
+  content: "\f115";
+}
+.icon-023-facebook-app-symbol:before {
+  content: "\f116";
+}
+.icon-024-whatsapp:before {
+  content: "\f117";
+}
+.icon-025-instagram:before {
+  content: "\f118";
+}
+.icon-026-messenger:before {
+  content: "\f119";
+}
+.icon-027-calendar:before {
+  content: "\f11a";
+}
+.icon-028-calendar-1:before {
+  content: "\f11b";
+}
+.icon-029-pinterest:before {
+  content: "\f11c";
+}
+.icon-030-pin:before {
+  content: "\f11d";
+}
+.icon-031-like:before {
+  content: "\f11e";
+}
+.icon-032-group:before {
+  content: "\f11f";
+}
+.icon-033-experience:before {
+  content: "\f120";
+}
+.icon-034-start-button:before {
+  content: "\f121";
+}
+.icon-035-group-1:before {
+  content: "\f122";
+}
+.icon-036-star-1:before {
+  content: "\f123";
+}
+.icon-037-medal:before {
+  content: "\f124";
+}
+.icon-038-cube:before {
+  content: "\f125";
+}
+.icon-039-crown:before {
+  content: "\f126";
+}
+.icon-040-refresh:before {
+  content: "\f127";
+}
+.icon-041-send:before {
+  content: "\f128";
+}
+.icon-042-clean-energy:before {
+  content: "\f129";
+}
+.icon-043-environmental-protection:before {
+  content: "\f12a";
+}
+.icon-044-savings:before {
+  content: "\f12b";
+}
+.icon-045-solar-panel:before {
+  content: "\f12c";
+}
+.icon-046-battery:before {
+  content: "\f12d";
+}
+.icon-047-light-bulb:before {
+  content: "\f12e";
+}
+.icon-048-solar-panel-1:before {
+  content: "\f12f";
+}
+.icon-049-search:before {
+  content: "\f130";
+}
+.icon-050-top:before {
+  content: "\f131";
+}
+.icon-051-telephone-1:before {
+  content: "\f132";
+}
+.icon-052-email:before {
+  content: "\f133";
+}
+.icon-053-price:before {
+  content: "\e900";
+}
+.icon-055-clear:before {
+  content: "\e909";
+}
+.icon-056-remove:before {
+  content: "\e90a";
+}
+.icon-timelapse:before {
+  content: "\e906";
+}
+.icon-057-local_grocery_store:before {
+  content: "\e90b";
+}
+.icon-058-check:before {
+  content: "\e90c";
+}
+.icon-star:before {
+  content: "\e904";
+}
+.icon-059-star_outline:before {
+  content: "\e90d";
+}
+.icon-060-favorite_outline:before {
+  content: "\e90e";
+}
+.icon-061-shopping_basket:before {
+  content: "\e90f";
+}
+.icon-062-eye:before {
+  content: "\e9ce";
+}
+.icon-063-eye-blocked:before {
+  content: "\e9d1";
+}
+.icon-plus:before {
+  content: "\ea0a";
+}
+.icon-minus:before {
+  content: "\ea0b";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-065-pinterest:before {
+  content: "\ead2";
+}
